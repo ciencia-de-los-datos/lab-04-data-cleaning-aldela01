@@ -7,7 +7,7 @@ correctamente. Tenga en cuenta datos faltantes y duplicados.
 
 """
 import pandas as pd
-import unidecode
+#import unidecode
 
 
 def clean_data():
